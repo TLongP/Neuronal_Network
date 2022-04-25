@@ -1,8 +1,10 @@
 # Neuronal_Networks
-This is my first learning project to Neuronal Network.
+This was my first learning project to Neuronal Network.
 
 requirements:
-numba, numpy and pandas
+-numpy
+-numba
+-pandas
 
 
 There is some thing Iwant to say here.
