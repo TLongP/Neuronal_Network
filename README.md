@@ -2,9 +2,9 @@
 This was my first learning project to Neuronal Network.
 
 requirements:
--numpy
--numba
--pandas
+- numpy
+- numba
+- pandas
 
 
 There is some thing Iwant to say here.
